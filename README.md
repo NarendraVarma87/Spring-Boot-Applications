@@ -11,3 +11,4 @@ This is my First Spring-Boot project performing CRUD operations on MySql databas
 > postman tool is used to check the RestAPI
 # IDE used
 > Spring Tool Suite 4
+> Also Included Eureka Server to this project
